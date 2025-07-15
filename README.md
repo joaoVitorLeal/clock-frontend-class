@@ -61,6 +61,6 @@ git clone https://github.com/joaoVitorLeal/clock-frontend-class.git
 
 ## 📌 Observação
 
->  Este projeto é didático e utiliza dados fornecidos por uma API simulada (mockada em memória no back-end).
+>  Este projeto utiliza dados fornecidos por uma API simulada (mockada em memória no back-end).
 
 ---
